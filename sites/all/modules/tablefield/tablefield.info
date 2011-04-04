@@ -1,0 +1,14 @@
+; $Id: tablefield.info,v 1.2 2010/05/11 21:37:35 kevinhankens Exp $
+name = TableField
+description = Defines a generic tablular data field.
+core = 7.x
+files[] = tablefield.css
+files[] = tablefield.module
+files[] = tablefield.install
+
+; Information added by drupal.org packaging script on 2010-12-23
+version = "7.x-2.0-alpha5"
+core = "7.x"
+project = "tablefield"
+datestamp = "1293146266"
+

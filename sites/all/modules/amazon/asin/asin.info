@@ -1,0 +1,16 @@
+; $Id: asin.info,v 1.6 2011/02/06 22:19:12 pancho Exp $
+
+name = Amazon field
+description = Provides a field for Amazon products.
+package = Amazon
+dependencies[] = amazon
+core = 7.x
+php = 5.2
+configure = admin/structure/types
+
+; Information added by drupal.org packaging script on 2011-02-24
+version = "7.x-1.0-beta5"
+core = "7.x"
+project = "amazon"
+datestamp = "1298551451"
+
