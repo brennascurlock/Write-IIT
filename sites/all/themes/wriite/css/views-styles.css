@@ -1,0 +1,13 @@
+/**
+ * @file
+ * Views Styling
+ */
+
+table.views-table td{
+font-size:0.9em;
+padding:5px;
+}
+
+table.views-table{
+    margin-top:10px;
+}
