@@ -255,6 +255,7 @@ text-align:right;
  * (see the layout.css file.)
  */
 .region-sidebar-second {
+  background-color:rgb(200, 200, 200);
 }
 
 .region-sidebar-second .section {
