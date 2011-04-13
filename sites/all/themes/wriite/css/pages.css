@@ -129,6 +129,13 @@ div#site-name /* The name of the website */ {
 #mission /* The mission statement of the site (displayed on homepage) */ {
 }
 
+.submitted{
+  font-style:italic;
+  color:#C0C0C0;
+  padding-top:8px;
+  padding-bottom:8px;
+}
+
 .region-content-top /* Wrapper for any blocks placed in the "content top" region */ {
 }
 
